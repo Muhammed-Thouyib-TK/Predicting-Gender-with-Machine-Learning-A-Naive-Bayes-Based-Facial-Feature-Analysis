@@ -67,7 +67,7 @@ By applying a **Gaussian Naive Bayes classifier**, the case study highlights how
 
 ## 🌐 Deployment  
 
-### 🔗 [Live Demo](https://lnkd.in/gXpjdDts)  
+### 🔗 [Live Demo] https://gender-prediction-web.streamlit.app/ 
 
 ### 🚀 Deployment Highlights  
 - Interactive **Streamlit interface** for real-time predictions  
